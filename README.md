@@ -1,6 +1,6 @@
-# Pump Selection Tool for MELMARTBD
+# Automated Pump Selection App
 
-A robust and intuitive web-based application designed to assist users in effortlessly selecting the ideal pump for their specific needs. Whether for residential, industrial, or commercial purposes, this tool provides accurate and reliable pump recommendations.
+A robust and intuitive web-based application designed to assist users in effortlessly selecting the ideal pump for their specific needs. This tool provides accurate and reliable pump recommendations for residential, industrial, or commercial purposes.
 
 **Live Project:** [melmartbd.com/pump-selection](https://melmartbd.com/pump-selection)
 
