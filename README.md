@@ -23,5 +23,4 @@ Live Project: [melmartbd.com/pump-selection](https://melmartbd.com/pump-selectio
 ---
 
 ## 📸 Screenshots
-> *(Add screenshots here later)*  
-Example:
+> *![Smart Automated Pump Selection App](https://github.com/alimranakandaGit/pump-selection-tool/blob/main/screenshot.png)*  
