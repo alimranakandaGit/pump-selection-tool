@@ -24,4 +24,12 @@ A robust and intuitive web-based application designed to assist users in effortl
 ---
 
 ## 📸 Screenshots
-> *![Smart Automated Pump Selection App](https://github.com/alimranakandaGit/pump-selection-tool/blob/main/screenshot.png)*  
+> *![Smart Automated Pump Selection App](https://github.com/alimranakandaGit/pump-selection-tool/blob/main/screenshot.png)*
+
+---
+
+## 📝 License
+
+This project is licensed under the **Custom License**. All rights are reserved. Unauthorized use, copying, distribution, or modification is strictly prohibited.
+
+For more details, please refer to the [LICENSE](LICENSE) file.
