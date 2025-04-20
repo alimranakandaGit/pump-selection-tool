@@ -1,7 +1,7 @@
 # Pump Selection Tool for MELMARTBD
 
 A powerful and user-friendly tool to help users easily select the right pump based on their specific requirements.  
-Live Demo: [melmartbd.com/pump-selection](https://melmartbd.com/pump-selection)
+Live Project: [melmartbd.com/pump-selection](https://melmartbd.com/pump-selection)
 
 ---
 
