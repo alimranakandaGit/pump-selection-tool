@@ -1,6 +1,6 @@
 # Automated Pump Selection App
 
-A robust and intuitive web-based application designed to assist users in effortlessly selecting the ideal pump for their specific needs. This tool provides accurate and reliable pump recommendations for residential, industrial, or commercial purposes.
+A robust and intuitive web-based application designed to assist users in effortlessly selecting the ideal pump for their specific needs. This tool offers accurate and reliable pump recommendations for residential, industrial, and commercial applications.
 
 **Live Project:** [melmartbd.com/pump-selection](https://melmartbd.com/pump-selection)
 
@@ -32,4 +32,4 @@ A robust and intuitive web-based application designed to assist users in effortl
 
 This project is licensed under the **Custom License**. All rights are reserved. Unauthorized use, copying, distribution, or modification is strictly prohibited.
 
-For more details, please refer to the [LICENSE](LICENSE) file.
+For more details, please take a look at the [LICENSE](LICENSE) file.
